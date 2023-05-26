@@ -1,1 +1,1 @@
-FROM gcr.io/cadvisor/cadvisor:v0.39.2
+FROM nvidia/cuda:11.8.0-devel-ubuntu22.04
